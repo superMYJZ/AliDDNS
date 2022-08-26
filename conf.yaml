@@ -1,0 +1,8 @@
+# conf  -*- coding: UTF-8 -*-
+# Ali用户的accessKeyId和accessKeySecret
+User:
+  accessKeyId: xxxxxxxxxxxxxxxxxxxxxxxxx
+  accessKeySecret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Domain:
+  - root: test.top
+    record: '@'
